@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋. I'm Gustavo, I'm Software Engineer from Colombia.
+
+I work working at PSL as a Web Developer.
 
 <!--
 **gemr142388/gemr142388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
