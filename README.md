@@ -1,6 +1,6 @@
 Hi there 👋. I'm Gustavo, I'm Software Engineer from Colombia.
 
-I work working at PSL as a Web Developer.
+I work at PSL as a Web Developer.
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gemr1423?label=Follow%20%40gemr1423&style=social">
 
